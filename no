@@ -1,0 +1,25 @@
+[33mcommit cec5abc96e86696fd65e05b213ccdfd88f12f2fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: admin <etetqlql@google.com>
+Date:   Fri Apr 8 10:51:33 2022 +0900
+
+    Revert "Add Modifiy Delete"
+    
+    This reverts commit dee7a803062534d15ce35c02b03a9875e6c43042.
+
+[33mcommit dee7a803062534d15ce35c02b03a9875e6c43042[m
+Author: admin <etetqlql@google.com>
+Date:   Fri Apr 8 10:46:34 2022 +0900
+
+    Add Modifiy Delete
+
+[33mcommit d78a551395ebb26199e334de3355ccbdee18daeb[m
+Author: admin <etetqlql@google.com>
+Date:   Fri Apr 8 10:44:01 2022 +0900
+
+    add dog
+
+[33mcommit 925de3cd4486e76474117698c8532f815dc19303[m
+Author: admin <etetqlql@google.com>
+Date:   Fri Apr 8 10:42:49 2022 +0900
+
+    first commit
